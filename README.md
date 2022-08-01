@@ -1,0 +1,1 @@
+This is a simple CRUD note apps build using django.
